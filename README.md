@@ -1,4 +1,4 @@
-<img width="1257" height="550" alt="image" src="https://github.com/user-attachments/assets/c2a6384c-271e-4770-be2b-704222cdbd1a" /># Digi-Sampark Setu
+# Digi-Sampark Setu
 
 ## Smart India Hackathon 2026 Project
 
@@ -12,10 +12,10 @@ This project was collaboratively developed as a team project during SIH 2026.
 
 # My Contribution
 
-- Contributed to feature planning and system workflow design
-- Participated in UI/UX planning and dashboard layout decisions
-- Helped define platform structure and user interaction flow
-- Collaborated with team members on overall project architecture and functionality planning
+- Contributed to feature planning and workflow design
+- Participated in UI/UX planning and dashboard design decisions
+- Helped define application flow and user interaction structure
+- Collaborated with team members on overall project functionality and architecture planning
 
 ---
 
@@ -67,16 +67,16 @@ Digi-Sampark-Setu/
 ├── app/                 # React Frontend
 ├── PMAJAY/              # Spring Boot Backend
 ├── README.md
+```
+<img width="1258" height="577" alt="Screenshot 2026-05-19 135459" src="https://github.com/user-attachments/assets/70adc900-7a24-4bf1-be55-cd3ef90d044c" />
 
-<img width="1258" height="577" alt="Screenshot 2026-05-19 135459" src="https://github.com/user-attachments/assets/542f2c94-44fc-48f6-a190-c04d55b2e608" />
+<img width="1254" height="566" alt="Screenshot 2026-05-19 135522" src="https://github.com/user-attachments/assets/d5a49443-61d9-4dd7-8689-dfa1e9fb9887" />
 
-<img width="1254" height="566" alt="Screenshot 2026-05-19 135522" src="https://github.com/user-attachments/assets/1feb0d03-bed4-4b72-b78b-a4431c630df5" />
+<img width="1258" height="571" alt="Screenshot 2026-05-19 135538" src="https://github.com/user-attachments/assets/00d95e77-d160-4823-82ba-8287d8591b5a" />
 
-<img width="1258" height="571" alt="Screenshot 2026-05-19 135538" src="https://github.com/user-attachments/assets/be652cb3-cd00-455e-8177-7854878121c3" />
+<img width="1250" height="568" alt="Screenshot 2026-05-19 135603" src="https://github.com/user-attachments/assets/277102a2-75d0-4ffd-9e23-a51734780590" />
 
-<img width="1250" height="568" alt="Screenshot 2026-05-19 135603" src="https://github.com/user-attachments/assets/6100f8a2-a0de-4620-a82c-c11d85e47d65" />
+<img width="1261" height="569" alt="Screenshot 2026-05-19 135627" src="https://github.com/user-attachments/assets/fc9cd703-5411-43f1-893d-e0fb3de2d066" />
 
-<img width="1261" height="569" alt="Screenshot 2026-05-19 135627" src="https://github.com/user-attachments/assets/783c29f4-8095-4dc4-80ef-87c9d2e8dbca" />
-
-<img width="1257" height="550" alt="Screenshot 2026-05-19 135652" src="https://github.com/user-attachments/assets/fff3fea6-d6a8-4e47-8e1a-c67b9d93f993" />
+<img width="1257" height="550" alt="Screenshot 2026-05-19 135652" src="https://github.com/user-attachments/assets/89639445-6608-4583-9cbb-ce5210dcb549" />
 
