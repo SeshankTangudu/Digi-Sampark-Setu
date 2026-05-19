@@ -2,7 +2,7 @@
 
 ## Smart India Hackathon 2026 Project
 
-Digi-Sampark Setu is a full-stack web-based platform developed during Smart India Hackathon (SIH) 2026 to support the implementation and monitoring of the PM-AJAY (Pradhan Mantri Anusuchit Jaati Abhuyday Yojana) scheme.
+Digi-Sampark Setu is a full-stack web-based platform developed during Smart India Hackathon (SIH) 2025 to support the implementation and monitoring of the PM-AJAY (Pradhan Mantri Anusuchit Jaati Abhuyday Yojana) scheme.
 
 The platform improves transparency, accountability, and coordination between the Central Government, State Governments, Implementing Agencies, and Citizens through centralized monitoring, reporting, and dashboard systems.
 
